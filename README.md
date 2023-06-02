@@ -1,5 +1,4 @@
-# HWAuto6.1
-[![Build status](https://ci.appveyor.com/api/projects/status/6xml4eljbal2ev8s?svg=true)](https://ci.appveyor.com/project/VisYar/hwauto6-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/8rsv2vhd2i5n0b9y?svg=true)](https://ci.appveyor.com/project/kensei93/behaviourdrivendevelopment)
 
 
 # Домашнее задание к занятию «2.4. BDD»
